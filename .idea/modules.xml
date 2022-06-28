@@ -4,7 +4,13 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android-Custom-Gallery.iml" filepath="$PROJECT_DIR$/.idea/modules/Android-Custom-Gallery.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-flow/Android-Custom-Gallery.app-flow.iml" filepath="$PROJECT_DIR$/.idea/modules/app-flow/Android-Custom-Gallery.app-flow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-flow/Android-Custom-Gallery.app-flow.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app-flow/Android-Custom-Gallery.app-flow.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-flow/Android-Custom-Gallery.app-flow.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app-flow/Android-Custom-Gallery.app-flow.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-flow/Android-Custom-Gallery.app-flow.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app-flow/Android-Custom-Gallery.app-flow.unitTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-rx/Android-Custom-Gallery.app-rx.iml" filepath="$PROJECT_DIR$/.idea/modules/app-rx/Android-Custom-Gallery.app-rx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-rx/Android-Custom-Gallery.app-rx.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app-rx/Android-Custom-Gallery.app-rx.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-rx/Android-Custom-Gallery.app-rx.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app-rx/Android-Custom-Gallery.app-rx.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-rx/Android-Custom-Gallery.app-rx.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app-rx/Android-Custom-Gallery.app-rx.unitTest.iml" />
     </modules>
   </component>
 </project>
